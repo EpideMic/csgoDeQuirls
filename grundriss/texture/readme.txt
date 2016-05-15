@@ -1,1 +1,1 @@
-Müssen nach *\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials um sie in Hammer verwenden zu können.
+Sowohl vmt wie auch vtf mÃ¼ssen nach *\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials kopiert werdenum sie im Hammereditor verwenden zu kÃ¶nnen.
