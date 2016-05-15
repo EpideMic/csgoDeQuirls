@@ -1,0 +1,1 @@
+Müssen nach *\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials um sie in Hammer verwenden zu können.
